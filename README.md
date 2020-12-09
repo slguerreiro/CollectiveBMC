@@ -3,7 +3,9 @@ Software tool for Analysing Collective Business Model Canvas
 
 ```
 java searchBMC.searchBMC
+```
 
+```
 searchBMC version 0.1 made by Sérgio Guerreiro, October 2018
 Syntax error: searchBMC <txt-file-with-BMC>
 
